@@ -20,11 +20,9 @@
 <div align="center">
 
 | | | | |
-|:---:|:---:|:---:|
 | 🏆 **AWS AI-ML Scholar** | | 🥇 **Top 5 DC Hackathon** |
 | | | |
-| 🎯 **Google BigCode R2** 
-| *BigCode Competition* | 
+| 🎯 **Google BigCode R2** |
 
 </div>
 
@@ -140,7 +138,7 @@ International Institute of Professional Studies, DAVV, Indore
 
 ## 👑 Leadership & Activities
 
-- 👨‍💻 **Software Development Life Cycle** — Member, Development Club IIPS
+- 👨‍💻 **Member, Development Club IIPS**
 - 🎓 **Google Gemini Student Ambassador 2025**
 - 🏑 **State Player - Hockey**
 - 🎖️ **NCC India** — Secured highest rank among 100 students at IIPS
@@ -149,7 +147,7 @@ International Institute of Professional Studies, DAVV, Indore
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-tejswini--tiwari-24292e?style=for-the-badge&logo=github)](https://github.com/tejswini-tiwari)
+[![Linkedin](https://img.shields.io/badge/GitHub-tejswini--tiwari-24292e?style=for-the-badge&logo=github)](https://www.linkedin.com/in/tejswini-tiwari-5833a3290/)
 [![Email](https://img.shields.io/badge/Email-tiwaritejswini1@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:tiwaritejswini1@gmail.com)
 
 ---
