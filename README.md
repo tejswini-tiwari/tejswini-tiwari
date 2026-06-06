@@ -7,7 +7,6 @@
 
 <p align="center">
 <a href="https://github.com/tejswini-tiwari">
-<img src="https://komarev.com/ghpvc/?username=tejswini-tiwari&label=Profile%20Views&color=6366f1&style=flat-square"/>
 </a>
 </p>
 
