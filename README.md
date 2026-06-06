@@ -9,9 +9,6 @@
 <a href="https://github.com/tejswini-tiwari">
 <img src="https://komarev.com/ghpvc/?username=tejswini-tiwari&label=Profile%20Views&color=6366f1&style=flat-square"/>
 </a>
-<a href="https://leetcode.com/u/Tejswinitiwari/">
-<img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems-solved?color=ffa657&style=flat-square&logo=leetcode"/>
-</a>
 </p>
 
 </div>
@@ -24,11 +21,10 @@
 
 | | | | |
 |:---:|:---:|:---:|
-| 🏆 **AWS AI-ML Scholar** | 💻 **600+ Problems Solved** | 🥇 **Top 5 DC Hackathon** |
-| *Top 3% of 50K applicants* | *LeetCode & GeeksforGeeks* | *DataCanvas* |
+| 🏆 **AWS AI-ML Scholar** | | 🥇 **Top 5 DC Hackathon** |
 | | | |
-| 🎯 **Google BigCode R2** | 📊 **92% Sentiment Accuracy** | 🐍 **YOLOv8 + ByteTrack** |
-| *BigCode Competition* | *NLP Models* | *Computer Vision* |
+| 🎯 **Google BigCode R2** 
+| *BigCode Competition* | 
 
 </div>
 
@@ -154,8 +150,6 @@ International Institute of Professional Studies, DAVV, Indore
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-tejswini--tiwari-24292e?style=for-the-badge&logo=github)](https://github.com/tejswini-tiwari)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Tejswinitiwari-ffa657?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Tejswinitiwari/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-userxyzforreason-2F8D46?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/userxyzforreason/)
 [![Email](https://img.shields.io/badge/Email-tiwaritejswini1@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:tiwaritejswini1@gmail.com)
 
 ---
