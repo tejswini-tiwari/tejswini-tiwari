@@ -121,7 +121,6 @@ International Institute of Professional Studies, DAVV, Indore
 ## 🏅 Achievements
 
 - 🏆 **AWS AI-ML Scholar** — Selected as one of 1,500 students from a global pool of 50,000 applicants
-- 💻 **600+ Problems Solved** — LeetCode and GeeksforGeeks using C++
 - 🥇 **Top 5 DC Hackathon** — Among top 5 teams in DataCanvas Hackathon
 - 🎯 **Google BigCode Round 2** — Reached Round 2 of the Google BigCode Competition
 
